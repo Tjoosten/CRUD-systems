@@ -8,4 +8,4 @@ Create Read Update Delete (CRUD) systems in PHP
 **C**reate
 **R**ead
 **U**pdate
-**D**lete
+**D**elete
